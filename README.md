@@ -22,23 +22,23 @@
 <br />
 <br />
 Entering a ticket : <br/>
-<img src="https://i.imgur.com/Vt0miJD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Vt0miJD.png" height="80%" width="80%" alt="Entering a ticke"/>
 <br />
 <br />
 Ticket has been Created:  <br/>
-<img src="https://i.imgur.com/UlSu4bD.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/UlSu4bD.png" height="80%" width="80%" alt="Ticket has been Created"/>
 <br />
 <br />
 View All Tickets :  <br/>
-<img src="https://i.imgur.com/ISYnBr9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ISYnBr9.png" height="80%" width="80%" alt="View All Tickets"/>
 <br />
 <br />
 Update the Ticket:  <br/>
-<img src="https://i.imgur.com/JoJiucI.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/JoJiucI.png" height="80%" width="80%" alt="Update the Ticket"/>
 <br />
 <br />
 Delete The Ticket:  <br/>
-<img src="https://i.imgur.com/eNPFY4o.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/eNPFY4o.png" height="80%" width="80%" alt="Delete The Ticket"/>
 </p>
 
 <!--
